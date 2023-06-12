@@ -1,0 +1,24 @@
+.task-outer
+{
+    margin-left: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:70px 200px 0 150px;
+}
+
+.task-tile
+{
+    border-radius:10px;
+    padding:10px;
+    width:170%;
+    text-align:center;
+    font-weight: 500;
+    color: white;
+}
+.task-block
+{
+    display: flex;
+    flex-direction: column;
+     width: 200px;
+}
